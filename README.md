@@ -8,3 +8,21 @@ Potato is a high school programmer, and a huge help to this respository. He made
 
 > [!TIP]
 > Check him out, and after, give him a follow!
+
+## Who is Blobby Boi?
+
+Blobby Boi is a huge help to the school community, as he is responsible for [ExtPrint3r](https://github.com/Blobby-Boi/ExtPrint3r), [LightSPED Killer Agent](https://github.com/Blobby-Boi/LightSPED-Killer-Agent), [Mask3r](https://github.com/Blobby-Boi/Mask3r), and more!
+
+> [!TIP]
+> Same as Potato, check him out and give him a follow!
+
+## Fun facts!
+
+### Everything started with a google site.<br>
+I made a google site, after I found out about LTMEAT (yes, I was one of those kids..) and it was named [Future-central](https://sites.google.com/view/future-central/home). This google site is discontinued, forever. Even if it wasn't, I wouldn't have BOTHERED to add more. This site had a lot of advanced vocabulary, though, and quite frankly, I am astonished at how good I was in that. 
+
+### I made a previous google document before the now supported one.<br>
+The google document was called FNetworks, inspired by Future-central and is now unavailable for viewing as the owner, Milo/Error, had gotten restricted from sharing google documents outside of his corporation. I was stupid at the time, and it was during school when I wanted to make a google document. It was in my imagination: FNetworks. It would be great! I originally couldn't share documents outside my school's corporation, so I asked him. Little did I know, he would have some similarity with me regarding that. He made it on his school account, since he could share it. I designed the document, made it, and it was nice! Disaster struck. I was showing it to this braindead child when it stopped. Just stopped. It was saying that it was either deleted, or something else happened. (I don't remember what it said after the deletion part) I was in shock. I don't know if he got unrestricted from sharing it now, as it now tells me to request access instead of the original message. Anyways, even if I can get access back, it's just an archive now of what I did in the past. Just a cool little history of what I've done. That's it.
+
+>[!WARNING]
+> If something in this respository doesn't work, report it to one of the people that work here. My socials are listed below, so don't worry.
