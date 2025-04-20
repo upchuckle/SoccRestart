@@ -4,14 +4,14 @@ SoccRestart is a respository made for the simple and plain use of bypassing scho
 
 ### Who is Potato?
 
-Potato is a high school programmer, and a huge help to this respository. He made the [gold-proxy](https://github.com/Wheels522/gold-proxy), as shown in the folders, and [Innate](https://github.com/dragon731012/Innate), which you make not know of. Because of him, I was able to make this respository.
+[Potato](https://github.com/dragon731012) is a high school programmer, and a huge help to this respository. He made the [gold-proxy](https://github.com/Wheels522/gold-proxy), as shown in the folders, and [Innate](https://github.com/dragon731012/Innate), which you make not know of. Because of him, I was able to make this respository.
 
 > [!TIP]
 > Check him out, and after, give him a follow!
 
 ### Who is Blobby Boi?
 
-Blobby Boi is a huge help to the school community, as he is responsible for [ExtPrint3r](https://github.com/Blobby-Boi/ExtPrint3r), [LightSPED Killer Agent](https://github.com/Blobby-Boi/LightSPED-Killer-Agent), [Mask3r](https://github.com/Blobby-Boi/Mask3r), and more!
+[Blobby Boi](https://github.com/blobby-boi) is a huge help to the school community, as he is responsible for [ExtPrint3r](https://github.com/Blobby-Boi/ExtPrint3r), [LightSPED Killer Agent](https://github.com/Blobby-Boi/LightSPED-Killer-Agent), [Mask3r](https://github.com/Blobby-Boi/Mask3r), and more!
 
 > [!TIP]
 > Same as Potato, check him out and give him a follow!
